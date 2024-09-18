@@ -1,0 +1,9 @@
+{
+  "category": "perfume",
+  "name": "gabrielle essence eau de parfum",
+  "description": "A floral, solar and voluptuous interpretation composed by Oliver Polge, Perfumer-Creator for the House of CHANEL.",
+  "price": {
+    "original": 169.99,
+    "discounted": 149.99
+  }
+}
